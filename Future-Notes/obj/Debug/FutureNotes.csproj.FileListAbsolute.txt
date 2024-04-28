@@ -1,0 +1,12 @@
+C:\Users\Barış\source\repos\FutureNotes\bin\Debug\FutureNotes.exe.config
+C:\Users\Barış\source\repos\FutureNotes\bin\Debug\FutureNotes.exe
+C:\Users\Barış\source\repos\FutureNotes\bin\Debug\FutureNotes.pdb
+C:\Users\Barış\source\repos\FutureNotes\obj\Debug\FutureNotes.csproj.AssemblyReference.cache
+C:\Users\Barış\source\repos\FutureNotes\obj\Debug\FutureNotes.Form1.resources
+C:\Users\Barış\source\repos\FutureNotes\obj\Debug\FutureNotes.Properties.Resources.resources
+C:\Users\Barış\source\repos\FutureNotes\obj\Debug\FutureNotes.csproj.GenerateResource.cache
+C:\Users\Barış\source\repos\FutureNotes\obj\Debug\FutureNotes.csproj.CoreCompileInputs.cache
+C:\Users\Barış\source\repos\FutureNotes\obj\Debug\FutureNotes.exe
+C:\Users\Barış\source\repos\FutureNotes\obj\Debug\FutureNotes.pdb
+C:\Users\Barış\source\repos\FutureNotes\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Barış\source\repos\FutureNotes\obj\Debug\FutureNotes.csproj.CopyComplete
